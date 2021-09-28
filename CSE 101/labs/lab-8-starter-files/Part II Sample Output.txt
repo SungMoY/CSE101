@@ -1,0 +1,19 @@
+Sample Output for Part II
+
+"sample1.txt":
+
+{'archimedes': [0], 'anticipated': [1], 'modern': [2], 'calculus': [3], 'and': [4, 11, 18], 'analysis': [5], 'by': [6], 'applying': [7], 'concepts': [8], 'of': [9, 14, 23, 29], 'infinitesimals': [10], 'the': [12, 27], 'method': [13], 'exhaustion': [15], 'to': [16], 'derive': [17], 'rigorously': [19], 'prove': [20], 'a': [21, 30], 'range': [22], 'geometrical': [24], 'theorems': [25], 'including': [26], 'area': [28], 'circle': [31]}
+
+
+
+"sample2.txt":
+
+{'collaboratively': [0], 'administrate': [1], 'empowered': [2], 'markets': [3], 'via': [4], 'plug-and-play': [5], 'networks': [6], 'dynamically': [7], 'procrastinate': [8], 'b2c': [9], 'users': [10], 'after': [11], 'installed': [12], 'base': [13], 'benefits': [14], 'dramatically': [15, 37], 'visualize': [16, 45], 'customer': [17], 'directed': [18], 'convergence': [19], 'without': [20, 27, 41, 49], 'revolutionary': [21], 'roi': [22], 'efficiently': [23], 'unleash': [24], 'cross-media': [25, 28], 'information': [26], 'value': [29], 'quickly': [30], 'maximize': [31], 'timely': [32], 'deliverables': [33], 'for': [34], 'real-time': [35], 'schemas': [36], 'maintain': [38], 'clicks-and-mortar': [39], 'solutions': [40, 43], 'functional': [42], 'seamlessly': [44], 'quality': [46], 'intellectual': [47], 'capital': [48], 'superior': [50], 'collaboration': [51], 'and': [52], 'idea-sharing': [53]}
+
+
+
+
+"sample3.txt":
+
+{'as': [0], 'you': [1, 25, 51, 70, 75, 77, 99, 108, 121], 'may': [2, 4], 'or': [3], 'not': [5, 18], 'know': [6], 'lindsay': [7], 'and': [8, 26, 44], 'i': [9, 22, 39, 45, 63, 71], 'have': [10, 100], 'hit': [11], 'a': [12, 15, 33, 60, 91, 101], 'bit': [13], 'of': [14], 'rough': [16], 'patch': [17], 'tricks': [19], 'michael': [20], 'illusions': [21], "don't": [23, 40], 'criticize': [24], 'if': [27], "you're": [28], 'worried': [29], 'about': [30], 'criticism': [31], 'sometimes': [32], 'diet': [34], 'is': [35, 90], 'the': [36, 42, 110, 115, 118], 'best': [37], 'defense': [38], 'understand': [41], 'question': [43], "won't": [46], 'respond': [47], 'to': [48, 66, 105], 'it': [49], 'did': [50], 'enjoy': [52], 'your': [53], 'meal': [54], 'mom': [55], "i'm": [56, 59, 83], 'half': [57], 'machine': [58], 'monster': [61], 'no': [62], 'was': [64], 'ashamed': [65], 'be': [67, 129], 'seen': [68], 'with': [69, 74], 'like': [72], 'being': [73], 'only': [76], 'could': [78], 'make': [79], 'those': [80], 'words': [81], 'cute': [82], 'doing': [84], 'mental': [85], 'jumping': [86], 'jacks': [87], 'this': [88], 'man': [89], 'knight': [92], 'in': [93], 'shining': [94], 'armor': [95], 'rorschach': [96], 'would': [97], 'say': [98], 'hard': [102], 'time': [103], 'relating': [104], 'others': [106], 'pretend': [107, 109], 'feelings': [111], 'are': [112], 'there': [113], 'for': [114, 117], 'world': [116], 'people': [119], 'around': [120], 'who': [122], 'knows': [123], 'maybe': [124], 'one': [125], 'day': [126], 'they': [127], 'will': [128]}
+

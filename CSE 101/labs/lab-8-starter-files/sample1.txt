@@ -1,0 +1,5 @@
+Archimedes anticipated modern calculus and
+analysis by applying
+concepts of infinitesimals and the method of exhaustion
+to derive and rigorously prove a range
+of geometrical theorems including the area of a circle
